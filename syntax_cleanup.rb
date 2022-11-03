@@ -8,7 +8,7 @@ foods = {
 person = { 
   height: "6 ft",
    weight: "160 lbs" 
-  }
+}
 
 post = { 
   image_src: "./images/beach.png",
